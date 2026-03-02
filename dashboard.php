@@ -81,7 +81,7 @@ body{
 <body>
 
 <div class="header">
-    College Event-Management System
+    College Event   Management System
 </div>
 
 <div class="container">

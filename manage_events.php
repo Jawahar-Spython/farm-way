@@ -33,7 +33,7 @@ th{background:#333;color:white}
 </head>
 <body>
 
-<h2>Manage College Events</h2>
+<h2>ManageCollege Events</h2>
 
 <form method="POST">
 <input type="text" name="name" placeholder="Event Name" required>
